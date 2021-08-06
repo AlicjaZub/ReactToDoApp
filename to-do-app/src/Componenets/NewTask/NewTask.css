@@ -1,0 +1,14 @@
+.newTask {
+    width: 20%;
+    margin: 10px;
+    font-size: 2rem;
+}
+
+.newTaskButton {
+    background: #85D150;
+    color: white;
+    font-size: 2rem;
+    padding: 10px;
+    border-radius: 10%;
+
+}

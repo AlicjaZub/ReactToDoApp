@@ -1,0 +1,28 @@
+h1 {
+    font-size: 6rem;
+    color: #85D150;
+    text-shadow: 4px 4px #70A000;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 1%;
+    font-size: 1.5rem;
+}
+
+.deleteButton {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.deleteButton:hover {
+    color: #85D150;
+}
+
+
